@@ -1,0 +1,134 @@
+NA
+Abbey Road
+The Beatles
+41.98
+10
+1.Come Together,2.Something,3.Maxwell's Silver Hammer,4.Oh! Darling,5.Octopus's Garden,6.I Want You,7.Because,8.Medley,9.Her Majesty,10.Here Comes the Sun
+26/09/1969
+Rock
+
+NA
+Nevermind
+Nirvana
+19.78
+12
+1.Smells Like Teen Spirit,2.In Bloom,3.Come as You Are,4.Breed,5.Lithium,6.Polly,7.Territorial Pissings,8.Drain You,9.Lounge Act,10.Stay Away,11.On a Plain,12.Something in the Way
+24/09/1991
+Grunge
+
+NA
+Thriller
+Michael Jackson
+27.5
+9
+1.Wanna Be Startin'Somethin',2.Baby Be Mine,3.The Girl Is Mine,4.Thriller,5.Beat It,6.Billie Jean,7.Human Nature,8.P.Y.T. (Pretty Young Thing),9.The Lady in My Life
+30/11/1982
+Pop
+
+NA
+25
+Adele
+11.95
+11
+1.Hello,2.Send My Love (To Your New Lover),3.I Miss You,4.When We Were Young,5.Remedy,6.Water Under the Bridge,7.River Lea,8.Love in the Dark,9.Million Years Ago,10.All I Ask,11.Sweetest Devotion
+20/11/2015
+Soul
+
+NA
+Doo-Wops & Hooligans
+Bruno Mars
+9.61
+10
+1.Grenade,2.Just the Way You Are,3.Our First Time,4.Runaway Baby,5.The Lazy Song,6.Marry You,7.Talking to the Moon,8.Liquor Store Blues,9.Count On Me,10.The Other Side
+04/10/2010
+Pop
+
+NA
+X
+Ed Sherran
+9.89
+12
+1.One,2.I'm a Mess,3.Sing,4.Don't,5.Nina,6.Photograph,7.Bloodstream,8.Tenerife Sea,9.Runaway,10.The Man,11.Thinking Out Loud,12.Afire Love
+20/06/2014
+Pop
+
+NA
+Modern Vampires of the City
+Vampire Weekend
+9.95
+12
+1.Obvious Bicycle,2.Unbelievers,3.Step,4.Diane Young,5.Don't Lie,6.Hannah Hunt,7.Everlasting Arms,8.Finger Back,9.Worship You,10.Ya Hey,11.Hudson,12.Young Lion
+14/05/2013
+Alternative
+
+NA
+ye
+Kanye West
+8.98
+7
+1.I Thought About Killing You,2.Yikes,3.All Mine,4.Wouldn't Leave,5.No Mistakes,6.Ghost Town,7.Violent Crimes
+01/06/2018
+Hip-Hop
+
+NA
+Red
+Taylor Swift
+15.67
+16
+1.State of Grace,2.Red,3.Treacherous,4.I Knew You Were Trouble,5.All Too Well,6.22,7.I Almost Do,8.We Are Never Ever Getting Back Together,9.Stay Stay Stay,10.The Last Time,11.Holy Ground,12.Sad Beautiful Tragic,13.The Lucky One,14.Everything Has Changed,15.Starlight,16.Begin Again
+22/10/2012
+Country
+
+NA
+Plural
+Electric Guest
+10.98
+11
+1.Zero,2.Glorious Warrior,3.Back & Forth,4.Dear to Me,5.Oh Devil,6.Back For Me,7.See the Light,8.Over,9.My Omen,10.Sarah,11.Bound To Lose
+17/02/2017
+Alternative
+
+NA
+Reputation
+Taylor Swift
+12.23
+15
+1.Ready for It?,2.End Game,3.I Did Something Bad,4.Don't Blame Me,5.Delicate,6.Look What You Made Me Do,7.So It Goes...,8.Gorgeous,9.Stay Stay Stay,10.King of My Heart,11.Dancing with Our Hands Tied,12.Dress,13.This Is Why We Can't Have Nice Things,14.Call It What You Want,15.New Year's Day
+10/11/2017
+Pop
+
+NA
+1989
+Taylor Swift
+14.93
+13
+1.Welcome to New York,2.Blank Space,3.Style,4.Out of the Woods,5.All You Had to Do Was Stay,6.Shake It Off,7.I Wish You Would,8.Bad Blood,9.Wildest Dreams,10.How You Get the Girl,11.This Love" Swift,12.I Know Places,13.Clean
+27/10/2014
+Pop
+
+NA
+Bloom
+Troye Sivan
+8.99
+5
+1.My My My!,2.The Good Side,3.Bloom,4.Dance to This,5.Animal
+31/08/2018
+Pop
+
+NA
+TRXYE
+Troye Sivan
+10.49
+5
+1.Happy Little Pill,2.Touch,3.Fun,4.Gasoline,5.The Fault in Our Stars(MMXIV)
+15/08/2014
+Pop
+
+NA
+21
+Adele
+11.98
+5
+1.Rolling in the Deep,2.Someone like you,3.Set Fire to the Rain,4.Rumor Has It,5.Turning Tables
+24/01/2011
+Soul
